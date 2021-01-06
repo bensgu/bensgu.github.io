@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Welcome
+## to 
+### Ben
+#### Gu's
+##### Homepage!
+###### In the process of beautification.
 
-You can use the [editor on GitHub](https://github.com/bensgu/bensgu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**This is BOLD**
+*We're getting blown away in the wind~*
+~~Mistakes were made~~
+**We're _BOLD AND GETTING BLOWN AWAY_**
+***We are important.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the words of Michael Scott:
+>You miss 100% of the shots you don’t take. - Wayne Gretzky
 
-### Markdown
+Use `System.out.println();` for all purpose debugging.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+If you ever forget how to count:
+```
+for (int i = 0; i < Integer.MAX_VALUE; i++)
+  System.out.println(i);
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here is where you can find all the [answers to the universe](google.com) for your convenience.
 
-### Jekyll Themes
+Here is the link to the read me using a [relative link]().
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bensgu/bensgu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Goals in Life
+- Eat
+- Sleep
+- Eat some more
 
-### Support or Contact
+## Goals in Life (ordered)
+1. Eat
+2. Eat some more
+3. Sleep
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
