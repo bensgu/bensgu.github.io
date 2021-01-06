@@ -5,11 +5,11 @@
 ##### Homepage!
 ###### In the process of beautification.
 
-**This is BOLD**
-*We're getting blown away in the wind~*
-~~Mistakes were made~~
-**We're _BOLD AND GETTING BLOWN AWAY_**
-***We are important.**
+**This is BOLD**  
+*We're getting blown away in the wind~*  
+~~Mistakes were made~~  
+**We're _BOLD AND GETTING BLOWN AWAY_**  
+***We are important.**  
 
 In the words of Michael Scott:
 >You miss 100% of the shots you don’t take. - Wayne Gretzky
