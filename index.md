@@ -42,12 +42,12 @@ Here is the link to the read me using a [relative link](./README.md).
      - Eat some more after
  
 ## To Do To Achieve Goals In Life
-- [x] Find some food
-- [ ] Eat some food
-- [ ] Sleep
-- [ ] Eat some more
+[x] Find some food  
+[ ] Eat some food  
+[ ] Sleep  
+[ ] Eat some more  
 
-- [ ] \(Optional) Sleep some more
+[ ] \(Optional) Sleep some more  
 
 
 ### Missing these views in La Jolla
