@@ -50,3 +50,6 @@ Here is the link to the read me using a [relative link](./README.md).
 - [ ] \(Optional) Sleep some more
 
 
+### Missing these views in La Jolla
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ89z6idyGX8JYKO_DuaVwS4PWrYFiwO-Knw&usqp=CAU)
+
