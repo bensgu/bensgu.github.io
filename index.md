@@ -1,9 +1,9 @@
 # Welcome
-## to 
-### Ben
-#### Gu's
-##### Homepage!
-###### In the process of beautification.
+##     to 
+###          Ben
+####             Gu's
+#####                 Homepage!
+######                   In the process of beautification.
 
 **This is BOLD**  
 *We're getting blown away in the wind~*  
@@ -24,7 +24,7 @@ for (int i = 0; i < Integer.MAX_VALUE; i++)
 
 Here is where you can find all the [answers to the universe](google.com) for your convenience.
 
-Here is the link to the read me using a [relative link]().
+Here is the link to the read me using a [relative link](./README.md).
 
 ## Goals in Life
 - Eat
@@ -35,5 +35,18 @@ Here is the link to the read me using a [relative link]().
 1. Eat
 2. Eat some more
 3. Sleep
+
+## How to achieve
+1. Eat
+   - Sleep here
+     - Eat some more after
+ 
+## To Do To Achieve Goals In Life
+- [x] Find some food
+- [ ] Eat some food
+- [ ] Sleep
+- [ ] Eat some more
+
+- [ ] \(Optional) Sleep some more
 
 
